@@ -113,8 +113,7 @@ employee-management-system/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
-cd employee-management-system
+git clone https://github.com/Sakshi-kosbe/PRODIGY_FS_02.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -163,7 +162,7 @@ npm run dev
 ## 👩‍💻 Author
 
 **Sakshi Kosbe**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Sakshi-kosbe/PRODIGY_FS_02.git
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
